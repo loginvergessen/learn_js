@@ -1,3 +1,6 @@
 - [[variable]]
 - [[operator]]
+- [[conditional statements]]
+- [[loops]]
 - Dynamic Typing
+-
