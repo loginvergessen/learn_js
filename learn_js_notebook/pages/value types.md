@@ -1,0 +1,7 @@
+- also called primitives
+- [[string]]
+- [[number]]
+- [[boolean]]
+- [[undefined]]
+- [[null]]
+- [[symbol]]

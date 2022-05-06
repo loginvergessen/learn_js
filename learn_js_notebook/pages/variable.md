@@ -1,3 +1,6 @@
+- #+BEGIN_WARNING
+  js is dynamically-typed = type of a variable can change during runtime
+  #+END_WARNING
 - ## declaration
 - in js, variables can be declared with the `let`,  `var` or `const` keyword
 - ```js
@@ -20,6 +23,6 @@
   ```
 - ## types
 - there are 2 main type
-	- [[primitive types]]
-	- [[dynamic types]]
+	- [[value types]]
+	- [[reference types]]
 -
