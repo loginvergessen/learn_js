@@ -1,2 +1,3 @@
-- [ [[variable]] ]
+- [[variable]]
+- [[operator]]
 - Dynamic Typing

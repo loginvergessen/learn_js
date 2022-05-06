@@ -1,0 +1,8 @@
+- see https://www.w3schools.com/js/js_operators.asp
+- [[arithmetic]]
+- [[assignment]]
+- [[comparison]]
+- [[logical]]
+- [[bitwise]]
+- ## precedence
+- see https://www.geeksforgeeks.org/operator-precedence-in-javascript/
