@@ -25,4 +25,9 @@
 - there are 2 main type
 	- [[value types]]
 	- [[reference types]]
+- #+BEGIN_IMPORTANT
+  value types are copied by their value
+  
+  reference types are copied by their reference
+  #+END_IMPORTANT
 -
