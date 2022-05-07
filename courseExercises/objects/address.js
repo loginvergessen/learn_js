@@ -1,9 +1,9 @@
 
 function Address(street, city, zipCode) {
-    this.street = street,
-    this.city = city,
-    this.zipCode = zipCode
-};
+    this.street = street;
+    this.city = city;
+    this.zipCode = zipCode;
+}
 
 const address1 = new Address('whoKnows', 'nowhere', 420);
 
