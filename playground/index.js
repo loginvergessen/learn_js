@@ -3,27 +3,11 @@ This file changes all the time and is used to test stuff in a quick and easy way
 */
 
 
-//factory
-function createCircle(radius) {
-    return {
-        radius,
+const numbers = [1, -2, 2, 3];
 
-        draw() {
-            console.log('draw');
-        }
-    };
-}
+let sum = 0;
+numbers.forEach(number => {
+    sum += number
+});
 
-const circle1 = createCircle(1);
-console.log(circle1);
-
-//constructor function
-function Circle(radius) {
-    this.radius = radius;
-    this.draw = function() {
-        console.log('draw');
-        
-    }
-}
-
-const circle = new Circle(1);
+console.log(sum);
