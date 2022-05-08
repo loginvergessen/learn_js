@@ -3,11 +3,30 @@ This file changes all the time and is used to test stuff in a quick and easy way
 */
 
 
-const numbers = [1, -2, 2, 3];
+let person = {
+    firstName: 'login',
+    lastName: 'vergessen',
+    get fullName() {
+        return `${this.firstName} ${this.lastName}`
+    },
+    set fullName(value) {
+        if (typeof value !== 'string')
+            throw new Error('Value is not a string!');
 
-let sum = 0;
-numbers.forEach(number => {
-    sum += number
-});
+        const parts = value.split(' ');
+        if (parts.length !== 2)
+            throw new Error('Enter a frist an last name');
+        this.firstName = parts[0];
+        this.lastName = parts[1];
+    }
+};
 
-console.log(sum);
+
+try {
+    person.fullName = '';
+}
+catch (e) {
+    alert(e);
+}
+
+console.log(person.fullName);
