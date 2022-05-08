@@ -2,31 +2,18 @@
 This file changes all the time and is used to test stuff in a quick and easy way
 */
 
+test(2096);
 
-let person = {
-    firstName: 'login',
-    lastName: 'vergessen',
-    get fullName() {
-        return `${this.firstName} ${this.lastName}`
-    },
-    set fullName(value) {
-        if (typeof value !== 'string')
-            throw new Error('Value is not a string!');
+function test(number) {
 
-        const parts = value.split(' ');
-        if (parts.length !== 2)
-            throw new Error('Enter a frist an last name');
-        this.firstName = parts[0];
-        this.lastName = parts[1];
+    sum = 0;
+
+    while (number) {
+        sum += number % 10;
+        number = Math.floor(number / 10);
     }
-};
 
+    console.log(number);
+    console.log(sum);
 
-try {
-    person.fullName = '';
 }
-catch (e) {
-    alert(e);
-}
-
-console.log(person.fullName);
