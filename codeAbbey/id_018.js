@@ -1,5 +1,6 @@
 /*
-This file changes all the time and is used to test stuff in a quick and easy way
+Title:  Square Root
+Link:   https://www.codeabbey.com/index/task_view/square-root
 */
 
 output(squareRoot(input()));
