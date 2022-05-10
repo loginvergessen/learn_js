@@ -1,9 +1,21 @@
-[{:block/name "a",
+[{:block/name "2022-05-07",
+  :block/created-at 1651874423627,
+  :block/updated-at 1651874423627}
+ {:block/name "2022-05-08",
+  :block/created-at 1651960853751,
+  :block/updated-at 1651960853751}
+ {:block/name "2022-05-09",
+  :block/created-at 1652047204974,
+  :block/updated-at 1652047204974}
+ {:block/name "2022-05-10",
+  :block/created-at 1652133603951,
+  :block/updated-at 1652133603951}
+ {:block/name "a",
   :block/created-at 1651790041299,
   :block/updated-at 1651790041299}
  {:block/name "arithmetic",
   :block/created-at 1651843752016,
-  :block/updated-at 1651843752016}
+  :block/updated-at 1651844593367}
  {:block/name "array",
   :block/created-at 1651795833426,
   :block/updated-at 1651840922062}
@@ -12,13 +24,13 @@
   :block/updated-at 1651840717535}
  {:block/name "assignment",
   :block/created-at 1651843757259,
-  :block/updated-at 1651843757259}
+  :block/updated-at 1651844727758}
  {:block/name "b",
   :block/created-at 1651790041299,
   :block/updated-at 1651790041299}
  {:block/name "bitwise",
   :block/created-at 1651843780197,
-  :block/updated-at 1651843780197}
+  :block/updated-at 1651850738990}
  {:block/name "boolean",
   :block/created-at 1651795369796,
   :block/updated-at 1651795369796}
@@ -30,10 +42,16 @@
   :block/updated-at 1651790041299}
  {:block/name "comparison",
   :block/created-at 1651843762134,
-  :block/updated-at 1651843762134}
+  :block/updated-at 1651845844610}
+ {:block/name "conditional statements",
+  :block/created-at 1651852591061,
+  :block/updated-at 1651852616007}
  {:block/name "contents",
   :block/created-at 1651790041300,
   :block/updated-at 1651790041300}
+ {:block/name "do while-loop",
+  :block/created-at 1651854115802,
+  :block/updated-at 1651858596081}
  {:block/name "doing",
   :block/created-at 1651790041299,
   :block/updated-at 1651790041299}
@@ -43,21 +61,36 @@
  {:block/name "favorites",
   :block/created-at 1651790041299,
   :block/updated-at 1651790041299}
+ {:block/name "for in-loop",
+  :block/created-at 1651854009745,
+  :block/updated-at 1651859568181}
+ {:block/name "for of-loop",
+  :block/created-at 1651854019448,
+  :block/updated-at 1651859688839}
+ {:block/name "for-loop",
+  :block/created-at 1651854001938,
+  :block/updated-at 1651857554349}
  {:block/name "function",
   :block/created-at 1651795839028,
   :block/updated-at 1651795839028}
+ {:block/name "if else",
+  :block/created-at 1651852612799,
+  :block/updated-at 1651853338483}
  {:block/name "in-progress",
   :block/created-at 1651790041300,
   :block/updated-at 1651790041300}
  {:block/name "javascript",
   :block/created-at 1651790231618,
-  :block/updated-at 1651843660072}
+  :block/updated-at 1651923494427}
  {:block/name "later",
   :block/created-at 1651790041299,
   :block/updated-at 1651790041299}
  {:block/name "logical",
   :block/created-at 1651843769669,
-  :block/updated-at 1651843769669}
+  :block/updated-at 1651849910905}
+ {:block/name "loops",
+  :block/created-at 1651853985182,
+  :block/updated-at 1651854115803}
  {:block/name "may 6th, 2022",
   :block/created-at 1651789923112,
   :block/updated-at 1651789923112}
@@ -87,13 +120,16 @@
   :block/updated-at 1651838854648}
  {:block/name "operator",
   :block/created-at 1651843653290,
-  :block/updated-at 1651843780197}
+  :block/updated-at 1651851499606}
  {:block/name "reference types",
   :block/created-at 1651795164698,
   :block/updated-at 1651795839029}
  {:block/name "string",
   :block/created-at 1651795345526,
   :block/updated-at 1651795345526}
+ {:block/name "switch",
+  :block/created-at 1651852616007,
+  :block/updated-at 1651853905207}
  {:block/name "symbol",
   :block/created-at 1651837276914,
   :block/updated-at 1651837276914}
@@ -108,10 +144,13 @@
   :block/updated-at 1651837276915}
  {:block/name "variable",
   :block/created-at 1651790496183,
-  :block/updated-at 1651837394292}
+  :block/updated-at 1651925666177}
  {:block/name "wait",
   :block/created-at 1651790041300,
   :block/updated-at 1651790041300}
  {:block/name "waiting",
-  :block/created-at 1651790041299, 
-  :block/updated-at 1651790041299}]
+  :block/created-at 1651790041299,
+  :block/updated-at 1651790041299}
+ {:block/name "while-loop",
+  :block/created-at 1651854024775, 
+  :block/updated-at 1651858335321}]
