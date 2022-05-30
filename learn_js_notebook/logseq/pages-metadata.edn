@@ -1,15 +1,6 @@
-[{:block/name "2022-05-07",
-  :block/created-at 1651874423627,
-  :block/updated-at 1651874423627}
- {:block/name "2022-05-08",
-  :block/created-at 1651960853751,
-  :block/updated-at 1651960853751}
- {:block/name "2022-05-09",
-  :block/created-at 1652047204974,
-  :block/updated-at 1652047204974}
- {:block/name "2022-05-10",
-  :block/created-at 1652133603951,
-  :block/updated-at 1652133603951}
+[{:block/name "2022-05-30",
+  :block/created-at 1653922132039,
+  :block/updated-at 1653922132039}
  {:block/name "a",
   :block/created-at 1651790041299,
   :block/updated-at 1651790041299}
@@ -22,6 +13,9 @@
  {:block/name "array.push()",
   :block/created-at 1651840272114,
   :block/updated-at 1651840717535}
+ {:block/name "array/push()",
+  :block/created-at 1653921993037,
+  :block/updated-at 1653921993037}
  {:block/name "assignment",
   :block/created-at 1651843757259,
   :block/updated-at 1651844727758}
@@ -58,6 +52,9 @@
  {:block/name "done",
   :block/created-at 1651790041300,
   :block/updated-at 1651790041300}
+ {:block/name "dynamic types",
+  :block/created-at 1653921993283,
+  :block/updated-at 1653921993283}
  {:block/name "favorites",
   :block/created-at 1651790041299,
   :block/updated-at 1651790041299}
@@ -91,9 +88,6 @@
  {:block/name "loops",
   :block/created-at 1651853985182,
   :block/updated-at 1651854115803}
- {:block/name "may 6th, 2022",
-  :block/created-at 1651789923112,
-  :block/updated-at 1651789923112}
  {:block/name "new page_ obj",
   :block/created-at 1651795825833,
   :block/updated-at 1651795825833}
